@@ -1,28 +1,3 @@
-<head>
-    <meta charset="utf-8">
-    <style>
-        .flex-list {
-            display: flex;
-            flex-direction: row;
-            flex-wrap: wrap;
-            justify-content: flex-start;
-            align-items: flex-start;
-        }
-        .flex-element {
-            margin: 0px;
-        }
-        .app-image {
-            width: 200px;
-            height: auto;
-            background-color: rgba(128, 128, 128, 0.1);
-            border: 2px solid grey;
-        }
-        figcaption {
-            font-size: 15px;
-        }
-    </style>                                                      
-</head>
-
 <h1>Дипломный проект QA engineer "Автоматизация тестирования мобильного приложения"</h1>
 
 <h2>Решения</h2>
@@ -276,50 +251,13 @@ Android приложение <a href="https://github.com/Nephedov/Hospice_app_Te
         <li>Информацию о приложении.</li>
         <li>
             <details><summary>Страницы приложения.</summary>
-                <div class="flex-list">
-                            <p class="flex-element">
-                                <figure class="app-image">
-                                    <img src="./pic/SplashScreen.jpg" alt="Экран загрузки">
-                                    <figcaption>Экран загрузки</figcaption>
-                                </figure>
-                            </p>
-                            <p class="flex-element">
-                                <figure class="app-image">
-                                    <img src="./pic/Authorization.jpg" alt="Страница авторизации">
-                                    <figcaption>Авторизация</figcaption>
-                                </figure>
-                            </p>
-                            <p class="flex-element">
-                                <figure class="app-image">
-                                    <img src="./pic/ControlPanel.jpg" alt="Главная страница">
-                                    <figcaption>"Панель управления"</figcaption>
-                                </figure>
-                            </p>
-                            <p class="flex-element">
-                                <figure class="app-image">
-                                    <img src="./pic/SplashScreen.jpg" alt="Страница `Новости`">
-                                    <figcaption>Экран загрузки</figcaption>
-                                </figure>
-                            </p>
-                            <p class="flex-element">
-                                <figure class="app-image">
-                                    <img src="./pic/ControlPanel.jpg" alt="Страница `Панель управления`">
-                                    <figcaption>"Панель управления"</figcaption>
-                                </figure>
-                            </p>
-                            <p class="flex-element">
-                                <figure class="app-image">
-                                    <img src="./pic/OurMission.jpg" alt="Страница тематических цитат">
-                                    <figcaption>Тематические цитаты</figcaption>
-                                </figure>
-                            </p>
-                            <p class="flex-element">
-                                <figure class="app-image">
-                                    <img src="./pic/About.jpg" alt="Страница `О прирложении`">
-                                    <figcaption>"О приложении"</figcaption>
-                                </figure>
-                            </p>
-                <div>
+                    <img src="./pic/SplashScreen.jpg" alt="Экран загрузки" width="150" height="auto"> 
+                    <img src="./pic/Authorization.jpg" alt="Страница авторизации" width="150" height="auto">
+                    <img src="./pic/ControlPanel.jpg" alt="Главная страница" width="150" height="auto">
+                    <img src="./pic/SplashScreen.jpg" alt="Страница `Новости`" width="150" height="auto">
+                    <img src="./pic/ControlPanel.jpg" alt="Страница `Панель управления`" width="150" height="auto">
+                    <img src="./pic/OurMission.jpg" alt="Страница тематических цитат" width="150" height="auto">
+                    <img src="./pic/About.jpg" alt="Страница `О прирложении`" width="150" height="auto">
             </details>
         </li>
     </ul>
