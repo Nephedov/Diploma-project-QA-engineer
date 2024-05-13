@@ -1,6 +1,26 @@
 <head>
     <meta charset="utf-8">
-    <link href="style.css" rel="stylesheet">                                                      
+    <style>
+        .flex-list {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: flex-start;
+            align-items: flex-start;
+        }
+        .flex-element {
+            margin: 0px;
+        }
+        .app-image {
+            width: 200px;
+            height: auto;
+            background-color: rgba(128, 128, 128, 0.1);
+            border: 2px solid grey;
+        }
+        figcaption {
+            font-size: 15px;
+        }
+    </style>                                                      
 </head>
 
 <h1>Дипломный проект QA engineer "Автоматизация тестирования мобильного приложения"</h1>
