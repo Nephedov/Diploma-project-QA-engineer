@@ -253,8 +253,8 @@ Android приложение <a href="https://github.com/Nephedov/Hospice_app_Te
             <details><summary>Страницы приложения.</summary>
                     <img src="./pic/SplashScreen.jpg" alt="Экран загрузки" width="150" height="auto"> 
                     <img src="./pic/Authorization.jpg" alt="Страница авторизации" width="150" height="auto">
-                    <img src="./pic/ControlPanel.jpg" alt="Главная страница" width="150" height="auto">
-                    <img src="./pic/SplashScreen.jpg" alt="Страница `Новости`" width="150" height="auto">
+                    <img src="./pic/Main.jpg" alt="Главная страница" width="150" height="auto">
+                    <img src="./pic/News.jpg" alt="Страница `Новости`" width="150" height="auto">
                     <img src="./pic/ControlPanel.jpg" alt="Страница `Панель управления`" width="150" height="auto">
                     <img src="./pic/OurMission.jpg" alt="Страница тематических цитат" width="150" height="auto">
                     <img src="./pic/About.jpg" alt="Страница `О прирложении`" width="150" height="auto">
